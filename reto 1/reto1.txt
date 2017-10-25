@@ -1,0 +1,4 @@
+1. hacer que gire constantemente hacia un lado
+2. hacer que 1 giro sentido horario y 1 giro sentido antihorario
+2. hacer que gire cuando detecta a alguien a 1m
+3. hacer que gire cuando detecta a alguien: un giro horario. Siguiente giro hacia un lado y al contrario
