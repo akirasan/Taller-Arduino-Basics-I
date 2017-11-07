@@ -1,4 +1,4 @@
-# Taller-Arduino-Basics-I
+# Taller Arduino Basics-I
 Toda la información del taller de Arduino Basics I que realizamos en Ripolab:
 - Presentaciones
 - Retos propuestos
